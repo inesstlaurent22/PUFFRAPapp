@@ -1,14 +1,14 @@
 [
   {
-    "nom": "Boulangerie Dupont",
+    "nom": "Studio A1",
     "adresse": "12 rue de Paris, 75001 Paris",
     "telephone": "01 23 45 67 89",
-    "categorie": "Boulangerie"
+    "categorie": "Mixage"
   },
   {
-    "nom": "Salon Élégance",
+    "nom": "Studio A2",
     "adresse": "5 avenue Victor Hugo, 75016 Paris",
     "telephone": "01 45 78 96 54",
-    "categorie": "Salon de beauté"
+    "categorie": "Enregistrement"
   }
 ]
