@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2em;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  color: #333;
+}
+
+#recherche {
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.entreprise {
+  background-color: #fff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
