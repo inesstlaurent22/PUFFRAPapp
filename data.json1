@@ -1,0 +1,20 @@
+[
+  {
+    "nom": "Boulangerie Dupont",
+    "categorie": "Alimentation",
+    "adresse": "12 rue de Paris, 75001 Paris",
+    "telephone": "01 23 45 67 89"
+  },
+  {
+    "nom": "Salon Beauté Élégance",
+    "categorie": "Beauté",
+    "adresse": "24 avenue de Lyon, 69000 Lyon",
+    "telephone": "04 56 78 90 12"
+  },
+  {
+    "nom": "Garage AutoRapide",
+    "categorie": "Automobile",
+    "adresse": "5 rue des Mécanos, 13000 Marseille",
+    "telephone": "06 12 34 56 78"
+  }
+]
